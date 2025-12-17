@@ -19,21 +19,21 @@
 
 ## Screenshots
 
-| Dashboard | Recording |
+| Youtube Import | MindMap |
 |-----------|-----------|
-| ![Dashboard](Screenshots/1.png) | ![Recording](Screenshots/2.png) |
+| ![Youtube Import](Screenshots/1.png) | ![MindMap](Screenshots/2.png) |
 
-| Summary | Flashcards |
+| Flashcard | Quiz |
 |---------|------------|
-| ![Summary](Screenshots/3.png) | ![Flashcards](Screenshots/4.png) |
+| ![Flashcard](Screenshots/3.png) | ![Quiz](Screenshots/4.png) |
 
-| Quiz | Study Notes |
+| Study Notes | AI Chat |
 |------|-------------|
-| ![Quiz](Screenshots/5.png) | ![Study Notes](Screenshots/6.png) |
+| ![Study Notes](Screenshots/5.png) | ![AI Chat](Screenshots/6.png) |
 
-| Mind Map | AI Chat |
+| Transcripts | Live Transcript |
 |----------|---------|
-| ![Mind Map](Screenshots/7.png) | ![AI Chat](Screenshots/8.png) |
+| ![Transcripts](Screenshots/7.png) | ![Live Transcript](Screenshots/8.png) |
 
 ---
 
@@ -52,7 +52,7 @@
 - **Node.js** (v18 or higher recommended) - [Download here](https://nodejs.org/)
 - A modern web browser (Chrome, Edge, or Brave recommended for microphone APIs).
 - A **Google Gemini API Key** (obtainable from [Google AI Studio](https://aistudio.google.com/)).
-- A **RapidAPI Key** for the YouTube Transcript service.
+- A **RapidAPI Key** for the [YouTube Transcript API](https://rapidapi.com/nikzeferis/api/youtube-captions-transcript-subtitles-video-combiner).
 
 ### Step 1: Install Dependencies
 ```bash
