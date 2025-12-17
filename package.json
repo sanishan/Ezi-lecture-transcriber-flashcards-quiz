@@ -1,0 +1,26 @@
+{
+  "name": "ezi-lecture-transcriber-flashcards-quiz",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AI-powered lecture transcriber that instantly turns speech & YouTube videos into study notes, flashcards, quizzes, and mind maps using Google Gemini.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.1",
+    "uuid": "^13.0.0",
+    "@google/genai": "^1.31.0",
+    "react-dom": "^19.2.1",
+    "marked": "12.0.0",
+    "mermaid": "10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
