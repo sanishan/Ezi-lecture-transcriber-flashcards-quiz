@@ -17,6 +17,15 @@
 
 ---
 
+## 💸 Free to Use (No Monthly Subscriptions)
+**Stop paying $20/month for AI wrappers.** This project is 100% free code that runs on your own keys.
+
+1.  **Google Gemini AI:** Uses the **Free Tier** API key. You get a massive amount of free generation and transcription every month directly from Google.
+2.  **YouTube Transcripts:** Powered by [RapidAPI](https://rapidapi.com/nikzeferis/api/youtube-captions-transcript-subtitles-video-combiner). The free plan includes **100 requests per month**, which is plenty for most students.
+    *   *Need more?* You can upgrade to a pro plan on RapidAPI if you're a heavy user (pricing visible on their page).
+
+---
+
 ## Screenshots
 
 | Youtube Import | MindMap |
